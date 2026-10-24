@@ -1,0 +1,20 @@
+# Reportes locales: pueden revelar rutas y metadatos internos
+DataShield-Reports/
+reports/
+*.scan.csv
+*.scan.json
+*.integrity.csv
+*.integrity.json
+
+# Configuración local y credenciales
+.env
+.env.*
+!.env.example
+*.local.json
+secrets.*
+
+# Archivos temporales de Windows/editores
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/

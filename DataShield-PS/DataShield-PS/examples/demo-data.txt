@@ -1,0 +1,7 @@
+DATA DE PRUEBA — TODOS LOS VALORES SON FICTICIOS.
+No reemplazar estos ejemplos por datos personales reales.
+
+Contacto de prueba: demo@example.test
+DNI simulado: DNI 12345678
+Teléfono de prueba: 999-123-456
+Credencial ficticia: api_key = example_fake_key_123456789
